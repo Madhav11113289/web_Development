@@ -1,0 +1,41 @@
+body{
+    margin-left:10px;
+}
+.border{
+     border-bottom:10px dotted rgb(179, 113, 179);;
+     margin-left=0px;
+}
+.header{
+    font-size: 40px;
+    color:rgb(228, 130, 228);
+   margin-left:10px;
+   margin-bottom: 5px;
+   
+}
+.title{
+    color:rgb(168, 163, 163);
+}
+p{
+    font-size:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.contact{
+    font-size:30px;
+    font-style:italic;
+    font-weight: 600; 
+    color:rgb(105, 104, 102);
+}
+ul{
+    background-color: rgb(235, 235, 237);
+    border: 5px solid rgb(180, 87, 180);
+    
+}
+.list{
+    margin: 20px 0px 20px 0px;
+}
+.email{
+    color:rgb(110, 125, 12)
+}
+.web{
+    color:rgb(255, 102, 0);
+}
